@@ -1,5 +1,7 @@
 # 🎵 Underground Artist Finder
 
+Made live on stream at https://www.twitch.tv/br1ghts1detv on 3/4/2025
+
 A simple Electron-based app that helps you discover underground artists on Spotify based on genre and follower count.
 
 ---
